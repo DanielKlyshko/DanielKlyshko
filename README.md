@@ -1,16 +1,16 @@
-## Hi there 👋
+<h3 align = "center"> 👋 </h3>
+<h3 align = "center"> I'm Daniel </h3>
+<h5 align = "center"> IOS Developer </h5>
 
-<!--
-**DanielKlyshko/DanielKlyshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">
+ <img
+  src="https://i.pinimg.com/564x/f8/b6/23/f8b623e166e47ed8013902d0c5833dd5.jpg"     
+  alt="danielklyshko" 
+  height="200" 
+  width="200"
+/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://linkedin.com/in/danielklyshko" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-624853.png?f=webp&w=512" alt="danielklyshko" height="30" width="30" /></a>
+</p>
