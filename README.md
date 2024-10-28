@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/danielklyshko" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-624853.png?f=webp&w=512" alt="danielklyshko" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/danielklyshko" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-icon-download-in-svg-png-gif-file-formats--logo-business-social-media-ios-apps-and-settings-pack-user-interface-icons-1570216.png?f=webp&w=512" alt="danielklyshko" height="30" width="32" /></a>
 </p>
